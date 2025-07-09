@@ -125,9 +125,3 @@ void loop() {
 }
 
 
-
-// [Rest of your existing functions remain the same: dustConc(), readDHTSensor(), 
-// soundBuzzer(), displayMeasurements(), sendDataToThingSpeak(), getGeoLocation(), 
-// connectWifi(), connectToStrongestWiFi(), checkWiFi()]
-
-// Updated advice functions for coffee storage context
